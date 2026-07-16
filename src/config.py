@@ -6,7 +6,7 @@ BRAND_TAGLINE = "a D2C lifestyle brand for young Indian households"
 BRAND_WEBSITE = "https://urbannest.example.in"
 SENDER_NAME = "Abhishek Bahmani"
 SENDER_ROLE = "Creator Partnerships"
-SENDER_EMAIL = "abhishek.bahmani@revrag.ai"
+SENDER_EMAIL = "abhishekbahmani303@gmail.com"
 
 # ---- Micro-influencer definition ----
 MIN_FOLLOWERS = 5_000
